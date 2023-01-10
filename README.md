@@ -1,6 +1,10 @@
-# A template repository for Data Networks course exercise documentation
+# Repository for Data Networks course exercise documentation
 
-Please write your documentation the following markdowns created as templates under the `/documentation/` -folder.
+Student: Andreas Kjersheim
+Student number: AC4938
+Student group: TIC22S1
+
+Documentation files:
 
 - [E01.md](/documentation/E01.md)
 - [E02.md](/documentation/E02.md)
@@ -20,7 +24,7 @@ Please write your documentation the following markdowns created as templates und
 - [E16.md](/documentation/E16.md)
 - [E17.md](/documentation/E17.md)
 
-If you have additional material (pictures, topologies), please save them in the repository to the correct folder e.g. `/documentation/E01/jamk.png`
+Additional material (pictures, topologies) are saved in the repository to the correct folder e.g. `/documentation/E01/jamk.png`
 
 ## Example markdown
 
