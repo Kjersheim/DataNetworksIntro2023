@@ -7,7 +7,7 @@ Student group: TIC22S1
 Documentation files:
 
 - [E01.md](/documentation/E01.md) Completed
-- [E02.md](/documentation/E02.md) Work in progress
+- [E02.md](/documentation/E02.md) Completed
 - [E03.md](/documentation/E03.md)
 - [E04.md](/documentation/E04.md)
 - [E05.md](/documentation/E05.md)
