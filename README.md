@@ -2,7 +2,7 @@
 
 Student: Andreas Kjersheim\
 Student number: AC4938\
-Student group: TIC22S1\
+Student group: TIC22S1  
 
 Documentation files:
 
