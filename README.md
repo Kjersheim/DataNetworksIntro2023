@@ -8,8 +8,8 @@ Documentation files:
 
 - [E01.md](/documentation/E01.md) Completed
 - [E02.md](/documentation/E02.md) Completed
-- [E03.md](/documentation/E03.md)
-- [E04.md](/documentation/E04.md)
+- [E03.md](/documentation/E03.md) Completed
+- [E04.md](/documentation/E04.md) Work in progress
 - [E05.md](/documentation/E05.md)
 - [E06.md](/documentation/E06.md)
 - [E07.md](/documentation/E07.md)
