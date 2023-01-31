@@ -10,7 +10,7 @@ Documentation files:
 - [E02.md](/documentation/E02.md) Completed
 - [E03.md](/documentation/E03.md) Completed
 - [E04.md](/documentation/E04.md) Completed
-- [E05.md](/documentation/E05.md)
+- [E05.md](/documentation/E05.md) In progress
 - [E06.md](/documentation/E06.md)
 - [E07.md](/documentation/E07.md)
 - [E08.md](/documentation/E08.md)
@@ -26,40 +26,3 @@ Documentation files:
 
 Additional material (pictures, topologies) are saved in the repository to the correct folder e.g. `/documentation/E01/jamk.png`
 
-## Example markdown
-
-### Plain text
-
-Your name here: 
-Student number: 
-Student group: 
-
-### Image
-
-This is a reference to an image
-
-![](/documentation/E01/jamk.png)
-
-### Configuration example
-
-Either as a file
-
-- [switch.cfg](/documentation/switch.cfg)
-
-Or as a blockquote/snippet
-
-```
-EXOS-VM.1 # show configuration
-#
-# Module devmgr configuration.
-#
-configure snmp sysContact "https://www.extremenetworks.com/support/"
-configure sys-recovery-level switch reset
-
-#
-# Module vlan configuration.
-#
-configure vlan default delete ports all
-configure vr VR-Default delete ports 1-2
-configure vr VR-Default add ports 1-2
-```
