@@ -11,7 +11,7 @@ Documentation files:
 - [E03.md](/documentation/E03.md) Completed
 - [E04.md](/documentation/E04.md) Completed
 - [E05.md](/documentation/E05.md) Completed
-- [E06.md](/documentation/E06.md) Work in progress
+- [E06.md](/documentation/E06.md) Completed
 - [E07.md](/documentation/E07.md)
 - [E08.md](/documentation/E08.md)
 - [E09.md](/documentation/E09.md)
