@@ -13,7 +13,7 @@ Documentation files:
 - [E05.md](/documentation/E05.md) Completed
 - [E06.md](/documentation/E06.md) Completed
 - [E07.md](/documentation/E07.md) Completed
-- [E08.md](/documentation/E08.md) Completed. Optional security will be added 28.02.2023.
+- [E08.md](/documentation/E08.md) Completed
 - [E09.md](/documentation/E09.md)
 - [E10.md](/documentation/E10.md)
 - [E11.md](/documentation/E11.md)
