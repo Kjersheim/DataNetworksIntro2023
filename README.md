@@ -19,7 +19,7 @@ Documentation files:
 - [E11.md](/documentation/E11.md) Completed
 - [E12.md](/documentation/E12.md) Completed
 - [E13.md](/documentation/E13.md) Completed
-- [E14.md](/documentation/E14.md) Work in progress
+- [E14.md](/documentation/E14.md) Completed
 - [E15.md](/documentation/E15.md)
 - [E16.md](/documentation/E16.md)
 - [E17.md](/documentation/E17.md)
