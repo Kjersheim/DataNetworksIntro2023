@@ -21,7 +21,7 @@ Documentation files:
 - [E13.md](/documentation/E13.md) Completed
 - [E14.md](/documentation/E14.md) Completed
 - [E15.md](/documentation/E15.md) Completed
-- [E16.md](/documentation/E16.md) Work in progress
+- [E16.md](/documentation/E16.md) Completed
 - [E17.md](/documentation/E17.md)
 
 Additional material (pictures, topologies) are saved in the repository to the correct folder e.g. `/documentation/E01/jamk.png`
