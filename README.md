@@ -1,8 +1,6 @@
 # Repository for Data Networks course exercise documentation
 
-Student: Andreas Kjersheim\
-Student number: AC4938\
-Student group: TIC22S1  
+Written by Andreas Kjersheim, each part follows its own subject and plan.
 
 Documentation files:
 
